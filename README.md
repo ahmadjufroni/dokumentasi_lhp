@@ -7,3 +7,6 @@ Aplikasi ini juga merupakan sarana untuk mempercepat kinerja PANWASCAM dalam
 peroses penyusunan data laporan kinerja pengawasan bulanan yang dilakukan oleh 
 PPKEL/PKD. data tersebut untuk bisa segera di laporkan langsung ke BAWASLU Kota 
 Cilegon. System aplikasi ini hanya bisa di akses oleh PPKEL/PKD Kecamatan Cibeber
+
+
+![image](https://user-images.githubusercontent.com/44368851/110879853-3feacd00-8310-11eb-9cde-4c1416a48a3f.png)
